@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Monster",
+	"Description": "最简单的刷怪插件，怪物沿自定义线条移动，被打死后重生",
+	"Category": "Other",
+	"CreatedBy": "fuwenju",
+	"CreatedByURL": "wasee.com",
+	"DocsURL": "wasee.com",
+	"MarketplaceURL": "wasee.com",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true
+}
